@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/pix"/>
+    <qresource prefix="/">
+        <file>images/dove2.png</file>
+        <file>images/golub2.png</file>
+    </qresource>
+</RCC>
